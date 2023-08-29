@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+}
+
+.left-sidebar {
+  width: 250px;
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-right: 1px solid #ccc;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
